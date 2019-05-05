@@ -10,10 +10,10 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.mitocode</groupId>
-	<artifactId>venta-backend</artifactId>
+	<artifactId>venta-backend1</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>venta-backend</name>
-	<description>Venta Backend</description>
+	<name>venta-backend1</name>
+	<description>Venta Backend1</description>
 
 	<properties>
 		<java.version>1.8</java.version>
