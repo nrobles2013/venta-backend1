@@ -32,7 +32,7 @@ import com.mitocode.model.Venta;
 import com.mitocode.service.IVentaService;
 
 @RestController
-@RequestMapping("/Ventas")
+@RequestMapping("/ventas")
 public class VentaController {
 
 	@Autowired

@@ -16,7 +16,7 @@ import com.mitocode.model.Producto;
 import com.mitocode.service.IProductoService;
 
 @RestController
-@RequestMapping("/Productos")
+@RequestMapping("/productos")
 public class ProductoController {
 
 	@Autowired
